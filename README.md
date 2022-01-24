@@ -6,7 +6,7 @@
 - 🎓 Estudando Engenharia de Computação
 - 😄 Pronouns: ela/dela
 
- ## 🛠 &nbsp; Tech Stack
+ ## 🛠 &nbsp; Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Suza-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Suza-Php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
