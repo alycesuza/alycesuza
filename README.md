@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Alyce Suza</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Alyce Suza! </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alycesuza&color=yellow" alt="Profile views" /> </p>
 <img align="right" alt="Suza-gif" height="300" style="border-radius:50px;" src="https://media.giphy.com/media/j6YyTCP4yKVbf3Lq59/giphy.gif">
 
