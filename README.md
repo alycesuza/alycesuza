@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/alycesuza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alycesuza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alycesuza&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alycesuza&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alycesuza&hide=html&layout=compact=true&theme=highcontrast"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -28,5 +28,4 @@
    <a href="https://www.youtube.com/channel/UCAJ9b6AHL2WlG7Ul0wqx53w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alyce-suza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-![Snake animation](https://github.com/alycesuza/alycesuza/blob/output/github-contribution-grid-snake.svg)
  </div>
