@@ -26,8 +26,7 @@
  ![Snake animation](https://github.com/alycesuza/alycesuza/blob/output/github-contribution-grid-snake.svg)
  </div>
  
-<div align="center">
-  <a href="https://github.com/alycesuza">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alycesuza&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alycesuza&hide=html&layout=compact=true&theme=highcontrast"/>
-</div>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alycesuza&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alycesuza&show_icons=true&theme=radical)](https://github.com/alycesuza/github-readme-stats)
+ 
+
