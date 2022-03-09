@@ -23,12 +23,14 @@
   <a href="https://www.linkedin.com/in/alyce-suza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## ⚙️ &nbsp; GitHub Analytics
-  <div align="center">
  
- ![Snake animation](https://github.com/alycesuza/alycesuza/blob/output/github-contribution-grid-snake.svg)
+ 
+  <div align="center">
   <a href="https://github.com/alycesuza">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alycesuza&theme=radical&&layout=compact&langs_count=10"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alycesuza&count_private=true&show_icons=true&hide=contribs,prs&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alycesuza&theme=radical&&layout=compact&langs_count=10"/>
+   
+   ![Snake animation](https://github.com/alycesuza/alycesuza/blob/output/github-contribution-grid-snake.svg)
+   
 </div>
  
 
