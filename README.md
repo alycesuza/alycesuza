@@ -27,8 +27,8 @@
  
  ![Snake animation](https://github.com/alycesuza/alycesuza/blob/output/github-contribution-grid-snake.svg)
   <a href="https://github.com/alycesuza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alycesuza&theme=radical&langs_count=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alycesuza&count_private=true&show_icons=true&hide=contribs,prs&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alycesuza&theme=radical&&layout=compact&langs_count=10"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alycesuza&count_private=true&show_icons=true&hide=contribs,prs&theme=radical"/>
 </div>
  
 
