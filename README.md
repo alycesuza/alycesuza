@@ -23,10 +23,12 @@
   <a href="https://www.linkedin.com/in/alyce-suza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## ⚙️ &nbsp; GitHub Analytics
- ![Snake animation](https://github.com/alycesuza/alycesuza/blob/output/github-contribution-grid-snake.svg)
- </div>
+  <div align="center">
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alycesuza&layout=compact&theme=radical&langs_count=10)](https://github.com/alycesuza/github-readme-stats)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alycesuza&count_private=true&show_icons=true&hide=contribs,prs&theme=radical)
+ ![Snake animation](https://github.com/alycesuza/alycesuza/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://github.com/alycesuza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alycesuza&theme=radical&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alycesuza&count_private=true&show_icons=true&hide=contribs,prs&theme=radical"/>
+</div>
  
 
