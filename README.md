@@ -10,14 +10,14 @@
   Olá! Eu sou Alyce Suza.
   ---
   
-  Bem vindo(a) ao meu repositorio Github e se for de seu interesse da uma passadinha no meu Blog <3
+  Bem vindo(a) ao meu repositorio Github 👀
   
   
   ---
   
   <img src="https://img.shields.io/badge/meu%20blog-000000?style=for-the-badge&logo=blogger&logoColor=white"><br> 
   
-  No meu blog, eu compartilho insights sobre cibersegurança, carreira em tecnologia, e reflexões pessoais. É um espaço para mergulhar em temas técnicos com uma perspectiva humana e crítica, sempre com um café na mão.
+  Você sabia que eu tenho um cantinho de compartilhar conhecimentos? Da uma passadinha lá!
   <a href="https://alycesuza.tech/" target="_blank"> <br> 
   <img src="https://img.shields.io/badge/Leia%20meus%20artigos-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
   </a><br> 
