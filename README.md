@@ -12,17 +12,16 @@ Olá! Eu sou Alyce Suza.
 
 Sou uma engenheira de computação apaixonada por segurança da informação, e minha missão é ser a tradutora entre o ataque e a defesa. Com uma mentalidade de red team, investigo as ameaças do futuro para, então, fortalecer o ciclo de vida de desenvolvimento de software (SDLC). Acredito que a segurança mais eficaz é aquela que é integrada por design, não uma camada externa. Nas minhas horas vagas, aplico a mesma energia criativa que dedico à arte e à poesia para construir defesas resilientes e capacitar pessoas.
 
----
 
-<img src="https://img.shields.io/badge/meu%20blog-333333?style=for-the-badge&logo=blogger&logoColor=white">
+
+<img src="https://img.shields.io/badge/meu%20blog-333333?style=for-the-badge&logo=blogger&logoColor=white"><br> 
 No meu blog, eu compartilho insights sobre cibersegurança, carreira em tecnologia, e reflexões pessoais. É um espaço para mergulhar em temas técnicos com uma perspectiva humana e crítica, sempre com um café na mão.
 <br>
 <a href="https://alycesuza.tech/" target="_blank"><br> 
-``
-  ---
+
 <img src="https://img.shields.io/badge/Leia%20meus%20artigos-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
-</a>
-<img src="https://img.shields.io/badge/minha%20jornada-333333?style=for-the-badge&logo=github&logoColor=white">
+</a><br> 
+<img src="https://img.shields.io/badge/minha%20jornada-333333?style=for-the-badge&logo=github&logoColor=white"><br> 
 formação: engenharia de computação (inst. federal de educação, ciência e tecnologia goiano) e mba em segurança da informação.
 <br>
 expertise: segurança da informação, desenvolvimento seguro de aplicações, testes de segurança e conformidade com a lgpd.
@@ -32,7 +31,8 @@ lattes: <a href="https://lattes.cnpq.br/9850234115153782" target="_blank">https:
 paixões: palestrar, dar aulas, arte e poesia.<br> 
 ``
 ---
-<img src="https://img.shields.io/badge/minhas%20habilidades-333333?style=for-the-badge&logo=github&logoColor=white">
+<br> 
+<img src="https://img.shields.io/badge/minhas%20habilidades-333333?style=for-the-badge&logo=github&logoColor=white"><br>
 segurança ofensiva:
 
 - Liderança e execução de exercícios de red team, pentests (web, api, mobile), análise de vulnerabilidades, bas e engenharia social.
@@ -54,7 +54,7 @@ governança e frameworks:
 -  Adequação e implementação de políticas baseadas em iso 27001, lgpd, owasp top 10 e owasp asvs.<br>
 ``
 --- 
-<img src="https://img.shields.io/badge/principais%20ferramentas-333333?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/principais%20ferramentas-333333?style=for-the-badge&logo=github&logoColor=white"><br>
 <div style="display: inline_block"><br>
 <img align="center" alt="Burp Suite" height="40" src="https://img.shields.io/badge/Burp%20Suite-F76911?style=for-the-badge&logo=burpsuite&logoColor=white">
 <img align="center" alt="Metasploit" height="40" src="https://img.shields.io/badge/Metasploit-E31837?style=for-the-badge&logo=metasploit&logoColor=white">
@@ -68,7 +68,7 @@ governança e frameworks:
 </div><br> 
 ``
 --- 
-<img src="https://img.shields.io/badge/redes%20sociais-333333?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/redes%20sociais-333333?style=for-the-badge&logo=github&logoColor=white"><br>
 <a href="https://www.linkedin.com/in/alyce-suza/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -80,7 +80,7 @@ governança e frameworks:
 </a><br>
 ``
 ---
-<img src="https://img.shields.io/badge/github%20stats-333333?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/github%20stats-333333?style=for-the-badge&logo=github&logoColor=white"><br>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=alycesuza&color=yellow" alt="Profile views" />
 </p>
