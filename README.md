@@ -77,7 +77,7 @@
   <img align="center" alt="Metasploit" height="40" src="https://img.shields.io/badge/Metasploit-E31837?style=for-the-badge&logo=metasploit&logoColor=white">
   <img align="center" alt="CrowdStrike" height="40" src="https://img.shields.io/badge/CrowdStrike-662D91?style=for-the-badge&logo=crowdstrike&logoColor=white">
   <img align="center" alt="Qualys" height="40" src="https://img.shields.io/badge/Qualys-E51B38?style=for-the-badge&logo=qualys&logoColor=white">
-  <img align="center" alt="SonarQube" height="40" src="https://img.shields.io/badge/SonarQube-00446A?style=for-the-badge&logo=sonarqube&logoColor=white">
+  <img align="center" alt="SonarQube" height="40" src="https://img.shields.io/badge/SonarQube-00446A?style=for-the-badge&logo=sonarqube&logoColor=white"><br> 
   <img align="center" alt="Snyk" height="40" src="https://img.shields.io/badge/Snyk-4C6FFF?style=for-the-badge&logo=snyk&logoColor=white">
   <img align="center" alt="OWASP ZAP" height="40" src="https://img.shields.io/badge/OWASP%20ZAP-192A44?style=for-the-badge&logo=owasp&logoColor=white">
   <img align="center" alt="Nessus" height="40" src="https://img.shields.io/badge/Nessus-002D56?style=for-the-badge&logo=tenable&logoColor=white">
