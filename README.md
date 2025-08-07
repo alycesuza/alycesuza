@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/alycesuza">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hveThzM2J1dmt6Z201M3Nyc2J2anJpazF2bmFkb2VqNmR5OWc5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vz2y30c2Rj0s0jXgD0/giphy.gif" alt="Animated binary code and network" width="300" style="border-radius:20px;">
+<img src="https://media.giphy.com/media/j6YyTCP4yKVbf3Lq59/giphy.gif" alt="Animated binary code and network" width="300" style="border-radius:20px;">
 </a>
 </p>
 
@@ -56,7 +56,7 @@ principais ferramentas
 <img align="center" alt="Snyk" height="40" src="https://img.shields.io/badge/Snyk-4C6FFF?style=for-the-badge&logo=snyk&logoColor=white">
 <img align="center" alt="OWASP ZAP" height="40" src="https://img.shields.io/badge/OWASP%20ZAP-192A44?style=for-the-badge&logo=owasp&logoColor=white">
 <img align="center" alt="Nessus" height="40" src="https://img.shields.io/badge/Nessus-002D56?style=for-the-badge&logo=tenable&logoColor=white">
-<img align="center" alt="Trivy" height="40" src="https://img.shields.io/badge/Trivy-004979?style=for-the-badge&logo=trivy&logoColor=white">
+<img align="center" alt="Trivy" height="40" src="https://img.shields.io/badge/Trivy-004979?style=for-the-badge&logo=trivy&logoColor=white"><br>
 </div>
 
 redes sociais
