@@ -16,7 +16,7 @@
   ---
   <img src="https://img.shields.io/badge/meu%20blog-333333?style=for-the-badge&logo=blogger&logoColor=white"><br> 
   No meu blog, eu compartilho insights sobre cibersegurança, carreira em tecnologia, e reflexões pessoais. É um espaço para mergulhar em temas técnicos com uma perspectiva humana e crítica, sempre com um café na mão.
-  <a href="https://alycesuza.tech/" target="_blank"> 
+  <a href="https://alycesuza.tech/" target="_blank"> <br> 
   <img src="https://img.shields.io/badge/Leia%20meus%20artigos-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
   </a><br> 
   
