@@ -10,7 +10,7 @@
   Olá! Eu sou Alyce Suza.
   ---
   
-  Sou uma engenheira de computação apaixonada por segurança da informação, e minha missão é ser a tradutora entre o ataque e a defesa. Com uma mentalidade de red team, investigo as ameaças do futuro para, então, fortalecer o ciclo de vida de desenvolvimento de software (SDLC). Acredito que a segurança mais eficaz é aquela que é integrada por design, não uma camada externa. Nas minhas horas vagas, aplico a mesma energia criativa que dedico à arte e à poesia para construir defesas resilientes e capacitar pessoas.
+  Bem vindo(a) ao meu repositorio Github e se for de seu interesse da uma passadinha no meu Blog <3
   
   
   ---
