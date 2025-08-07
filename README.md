@@ -1,4 +1,4 @@
-<div style="background-color: #000000; color: #FFFFFF; padding: 2000px;">
+
 
   <p align="center">
   <a href="https://github.com/alycesuza">
@@ -14,47 +14,56 @@
   
   
   ---
-  <img src="https://img.shields.io/badge/meu%20blog-333333?style=for-the-badge&logo=blogger&logoColor=white"><br> 
+  
+  <img src="https://img.shields.io/badge/meu%20blog-000000?style=for-the-badge&logo=blogger&logoColor=white"><br> 
+  
   No meu blog, eu compartilho insights sobre cibersegurança, carreira em tecnologia, e reflexões pessoais. É um espaço para mergulhar em temas técnicos com uma perspectiva humana e crítica, sempre com um café na mão.
   <a href="https://alycesuza.tech/" target="_blank"> <br> 
   <img src="https://img.shields.io/badge/Leia%20meus%20artigos-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
   </a><br> 
   
   ---
-  <img src="https://img.shields.io/badge/minha%20jornada-333333?style=for-the-badge&logo=github&logoColor=white"><br> 
-  formação: engenharia de computação (inst. federal de educação, ciência e tecnologia goiano) e mba em segurança da informação.
+  
+  <img src="https://img.shields.io/badge/minha%20jornada-000000?style=for-the-badge&logo=github&logoColor=white"><br> 
+  **Formação:** 
+  - Engenharia de computação (inst. federal de educação, ciência e tecnologia goiano) e mba em segurança da informação.
   <br>
-  expertise: segurança da informação, desenvolvimento seguro de aplicações, testes de segurança e conformidade com a lgpd.
+  **Expertise:**
+  - Segurança da informação, desenvolvimento seguro de aplicações, testes de segurança e conformidade com a lgpd.
   <br>
-  lattes: <a href="https://lattes.cnpq.br/9850234115153782" target="_blank">https://lattes.cnpq.br/9850234115153782</a>
+  **Paixões:**
+  - Palestrar, dar aulas, arte e poesia.<br>
+  **Lattes:**
+  - <a href="https://lattes.cnpq.br/9850234115153782" target="_blank">https://lattes.cnpq.br/9850234115153782</a>
   <br>
-  paixões: palestrar, dar aulas, arte e poesia.<br> 
   
   ---
   <br> 
-  <img src="https://img.shields.io/badge/minhas%20habilidades-333333?style=for-the-badge&logo=github&logoColor=white"><br>
-  segurança ofensiva:
+  
+  <img src="https://img.shields.io/badge/minhas%20habilidades-000000?style=for-the-badge&logo=github&logoColor=white"><br>
+  **Segurança ofensiva:**
   
   - Liderança e execução de exercícios de red team, pentests (web, api, mobile), análise de vulnerabilidades, bas e engenharia social.
   
-  application security (appsec):
+  **Application security (appsec):**
   
   -  Análise de código estática (sast) e dinâmica (dast).
   
   -  Modelagem de ameaças e integração de segurança em esteiras de ci/cd (devsecops).
   
-  gestão de riscos & cloud:
+  **Gestão de riscos & cloud:**
   
   -  Implementação de controles de segurança em ambientes multi-cloud (aws, azure, oci, gcp).
   
   -  Gestão de vulnerabilidades, patches e firewalls.
   
-  governança e frameworks:
+  **Governança e frameworks:**
   
   -  Adequação e implementação de políticas baseadas em iso 27001, lgpd, owasp top 10 e owasp asvs.<br>
   
   --- 
-  <img src="https://img.shields.io/badge/principais%20ferramentas-333333?style=for-the-badge&logo=github&logoColor=white"><br>
+  
+  <img src="https://img.shields.io/badge/principais%20ferramentas-000000?style=for-the-badge&logo=github&logoColor=white"><br>
   <div style="display: inline_block"><br>
   <img align="center" alt="Burp Suite" height="40" src="https://img.shields.io/badge/Burp%20Suite-F76911?style=for-the-badge&logo=burpsuite&logoColor=white">
   <img align="center" alt="Metasploit" height="40" src="https://img.shields.io/badge/Metasploit-E31837?style=for-the-badge&logo=metasploit&logoColor=white">
@@ -68,7 +77,8 @@
   </div><br> 
   
   --- 
-  <img src="https://img.shields.io/badge/redes%20sociais-333333?style=for-the-badge&logo=github&logoColor=white"><br>
+  
+  <img src="https://img.shields.io/badge/redes%20sociais-000000?style=for-the-badge&logo=github&logoColor=white"><br>
   <a href="https://www.linkedin.com/in/alyce-suza/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -80,9 +90,9 @@
   </a><br>
   
   ---
-  <img src="https://img.shields.io/badge/github%20stats-333333?style=for-the-badge&logo=github&logoColor=white"><br>
+  
+  <img src="https://img.shields.io/badge/github%20stats-000000?style=for-the-badge&logo=github&logoColor=white"><br>
   <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alycesuza&color=yellow" alt="Profile views" />
   </p>
 
-</div>
