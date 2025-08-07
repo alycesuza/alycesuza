@@ -25,14 +25,19 @@
   ---
   
   <img src="https://img.shields.io/badge/minha%20jornada-000000?style=for-the-badge&logo=github&logoColor=white"><br> 
+  
   **Formação:** 
+  
   - Engenharia de computação (inst. federal de educação, ciência e tecnologia goiano) e mba em segurança da informação.
-  <br>
+
   **Expertise:**
+  
   - Segurança da informação, desenvolvimento seguro de aplicações, testes de segurança e conformidade com a lgpd.
-  <br>
+    
   **Paixões:**
-  - Palestrar, dar aulas, arte e poesia.<br>
+  
+  - Palestrar, dar aulas, arte e poesia.
+
   **Lattes:**
   - <a href="https://lattes.cnpq.br/9850234115153782" target="_blank">https://lattes.cnpq.br/9850234115153782</a>
   <br>
@@ -41,6 +46,7 @@
   <br> 
   
   <img src="https://img.shields.io/badge/minhas%20habilidades-000000?style=for-the-badge&logo=github&logoColor=white"><br>
+ 
   **Segurança ofensiva:**
   
   - Liderança e execução de exercícios de red team, pentests (web, api, mobile), análise de vulnerabilidades, bas e engenharia social.
@@ -64,6 +70,7 @@
   --- 
   
   <img src="https://img.shields.io/badge/principais%20ferramentas-000000?style=for-the-badge&logo=github&logoColor=white"><br>
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Burp Suite" height="40" src="https://img.shields.io/badge/Burp%20Suite-F76911?style=for-the-badge&logo=burpsuite&logoColor=white">
   <img align="center" alt="Metasploit" height="40" src="https://img.shields.io/badge/Metasploit-E31837?style=for-the-badge&logo=metasploit&logoColor=white">
@@ -79,6 +86,7 @@
   --- 
   
   <img src="https://img.shields.io/badge/redes%20sociais-000000?style=for-the-badge&logo=github&logoColor=white"><br>
+  
   <a href="https://www.linkedin.com/in/alyce-suza/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -92,6 +100,7 @@
   ---
   
   <img src="https://img.shields.io/badge/github%20stats-000000?style=for-the-badge&logo=github&logoColor=white"><br>
+  
   <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alycesuza&color=yellow" alt="Profile views" />
   </p>
