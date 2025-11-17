@@ -6,11 +6,9 @@
   </a>
   </p>
   
-  
-  Olá! Eu sou Alyce Suza.
+  Bem vindo(a) ao meu repositorio Github!!
   ---
   
-  Bem vindo(a) ao meu repositorio Github 👀
   Ta curioso por ai? segura que tem novidade no forno...
   
   
