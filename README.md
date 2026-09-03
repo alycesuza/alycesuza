@@ -9,7 +9,8 @@
   Bem vindo(a) ao meu repositorio Github!!
   ---
   
-  Ta curioso por ai? segura que tem novidade no forno...
+  Ta curioso por ai? acontece! 
+  Aproveite e rode minhas lindas arte em shell.
   
   
   ---
